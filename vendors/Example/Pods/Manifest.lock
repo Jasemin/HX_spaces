@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - vendors (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - vendors (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  vendors:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  vendors: 04bc8b118bccacf3d67cdf13ae66c9dbe0d4ddc8
+
+PODFILE CHECKSUM: be6ab818ebd7a6dab5743f48bb6fa7be29266ea2
+
+COCOAPODS: 1.11.2
